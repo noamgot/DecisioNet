@@ -72,22 +72,13 @@ If you encounter any running issues, feel free to open an issue. We'll try to lo
 ## Citation
 If you find this code useful, please cite our paper:
 ```
-@misc{https://doi.org/10.48550/arxiv.2207.01127,
-  doi = {10.48550/ARXIV.2207.01127},
-  
-  url = {https://arxiv.org/abs/2207.01127},
-  
-  author = {Gottlieb, Noam and Werman, Michael},
-  
-  keywords = {Computer Vision and Pattern Recognition (cs.CV), Machine Learning (cs.LG), FOS: Computer and information sciences, FOS: Computer and information sciences},
-  
-  title = {DecisioNet: A Binary-Tree Structured Neural Network},
-  
-  publisher = {arXiv},
-  
-  year = {2022},
-  
-  copyright = {arXiv.org perpetual, non-exclusive license}
+@InProceedings{Gottlieb_2022_ACCV,
+    author    = {Gottlieb, Noam and Werman, Michael},
+    title     = {DecisioNet: A Binary-Tree Structured Neural Network},
+    booktitle = {Proceedings of the Asian Conference on Computer Vision (ACCV)},
+    month     = {December},
+    year      = {2022},
+    pages     = {1675-1690}
 }
 
 ```
