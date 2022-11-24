@@ -1,5 +1,5 @@
 # DecisioNet
-This is the official PyTorch implementation of the paper ["DecisioNet: A Binary-Tree Structured Neural Network"](https://arxiv.org/abs/2207.01127), by Noam Gottlieb and Michael Werman.
+This is the official PyTorch implementation of the paper ["DecisioNet: A Binary-Tree Structured Neural Network"](https://openaccess.thecvf.com/content/ACCV2022/papers/Gottlieb_DecisioNet_A_Binary-Tree_Structured_Neural_Network_ACCV_2022_paper.pdf), by Noam Gottlieb and Michael Werman.
 
 ## Prerequisites
 - Python 3.7+
